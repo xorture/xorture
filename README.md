@@ -35,5 +35,4 @@ here is the code that backs up my research:
 
 i am actively looking for an internship or junior role in backend development, cybersecurity, or automation. i am eager to bring my problem-solving mindset to a team that builds serious software.
 
-* **linkedin:** [link-catre-linkedin]
-* **email:** [adresa-ta-de-email]
+* **email:** [d19691551@gmail.com]
