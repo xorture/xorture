@@ -15,8 +15,6 @@ i don't just write scripts; i reverse-engineer problems, analyze system behavior
 
 here is the code that backs up my research:
 
-* **[aegis: kernel-level network firewall](https://github.com/xorture/aegis)** | *python, windivert, networking*
-  a custom threat-interception engine. it hooks into the network stack to manually parse raw tls client hello packets and dns queries, blocking c2 infrastructure and telemetry without decrypting the payload.
 * **[cv-autonomous-agent](https://github.com/xorture/autofarmer)** | *opencv, numpy, win32api*
   an intelligent computer vision agent capable of real-time object detection and decision making. it uses screen-grabbing (mss), visual blockage detection, and kernel-level mouse events (ctypes) for error recovery and dynamic navigation.
 * **[Facturino](https://github.com/xorture/Facturi_AI_Extractor)** | *python, sql, ai apis*
