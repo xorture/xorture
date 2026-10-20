@@ -1,6 +1,6 @@
 # hi, i'm xorture 😳
 
-i am a 1st-year economic informatics student in romania, deeply passionate about low-level system architecture, computer vision, and offensive/defensive security. i am transitioning from full-stack web development to backend engineering, focusing on how operating systems interact with memory and networks at the lowest levels.
+i am a 2nd-year economic informatics student in romania, deeply passionate about low-level system architecture, computer vision, and offensive/defensive security. i am transitioning from full-stack web development to backend engineering, focusing on how operating systems interact with memory and networks at the lowest levels.
 
 i don't just write scripts; i reverse-engineer problems, analyze system behaviors, and build custom tools to automate, intercept, or optimize processes.
 
